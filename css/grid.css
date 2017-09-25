@@ -44,7 +44,11 @@ hr.style3 {
 }
 
 main {
-	border-right: 20px;
+	padding-left: 5px;
+}
+
+footer {
+	padding: 7px;
 }
 
 .naranjo{
